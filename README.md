@@ -1,4 +1,4 @@
-# Targe-Identification
+# Target-Identification
 
 This project is my tutor's assignment to me.
 Its purpose is to detect the different images which have the same background 
@@ -12,7 +12,7 @@ and find the red circle targets in the images.
  * imgread.m      -- Read the images in batches.  
  * label.m        -- Label connected components in 2-D arrays.  
  * props.m        -- Get some important proporties of shapes extracted from the images. 
- * threeframe.    -- Use three frame difference method to filter target and get the background. 
+ * threeframe.m   -- Use three frame difference method to filter target and get the background. 
  
  
 # 1 script
