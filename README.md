@@ -18,7 +18,8 @@ and find the red circle targets in the images.
 # ·1 script
 
  example_img2.m -- Take the img2 as an example.  
- 
+
+# Note
 Note that in the line 47 of example_img2.m,the threshold(=0.53) of 'Canny Method' 
 needs to be adjusted flexiably according to the different images.This is also one of my 
 disadvantages of the assignment.
