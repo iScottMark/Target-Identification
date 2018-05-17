@@ -1,10 +1,10 @@
-Targe-Identification
+# Targe-Identification
 
 This project is my tutor's assignment to me.
 Its purpose is to detect the different images which have the same background 
 and find the red circle targets in the images.
 
-·7 functions
+# ·7 functions
 
  fitellipse.m   -- Least squares method is used to fit an ellipse to 2-D data.  
  fiterror.m     -- Calculate the error of the ellipse fitted and the return value is MSE. 
@@ -15,7 +15,7 @@ and find the red circle targets in the images.
  threeframe.    -- Use three frame difference method to filter target and get the background. 
  
  
-·1 script
+# ·1 script
 
  example_img2.m -- Take the img2 as an example.  
  
